@@ -1,0 +1,6 @@
+{
+  "name": "Stopwatch",
+  "description": "Precision digital and analog chronometer with laps, split analytics, interval timer, and session tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
